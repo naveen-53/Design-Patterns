@@ -30,5 +30,7 @@ public class SingletonPattern {
     	System.out.println(s1 == s2);
     	System.out.println(s1.getName());
     	System.out.println(s2.getName());
+    	System.out.println(s1);
+    	System.out.println(s2);
     }
 }
